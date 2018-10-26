@@ -1,0 +1,9 @@
+0
+height (m)
+Bomb speed > (m/s)
+Airplane speed > (m/s)
+S (m)
+G
+0
+
+Make sure you include the 0's
